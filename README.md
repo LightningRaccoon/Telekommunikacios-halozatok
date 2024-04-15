@@ -1,4 +1,4 @@
-# 2023ELTE-Telekommunikacios-halozatok
+# Telekommunikacios-halozatok
 
 Telekom gyakorlat anyagai <br>
 Gyakorlatok: 1-6  <br>
